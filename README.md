@@ -5,19 +5,19 @@
 
 - Models, Dialogs, and SnackBars
   
-- App Theming and Configuration: Customizing and adapting the app's appearance.
+- App Theming and Configuration: Customize and adapt the app's appearance.
   
 - Responsive Layouts: Changing layouts dynamically based on screen size.
 
 - Inputs and New Widgets: Utilizing advanced inputs and custom widgets.
 
-- Adaptive Widgets: Building widgets that detect and respond to screen and platform information effectively.
+- Adaptive Widgets: Building widgets that effectively detect and respond to screen and platform information.
 
-# Interface (potraite)
+# Interface (Portrait)
 
 ![image](https://github.com/user-attachments/assets/69a6c00f-e3ef-4436-9a19-fa2f9747f9a9)
 
-# Interface (landscape)
+# Interface (Landscape)
 
 ![image](https://github.com/user-attachments/assets/19cfc6d4-4e2b-4336-91bf-4f260f71bc0a)
 
