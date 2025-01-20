@@ -29,6 +29,11 @@
 
 ![image](https://github.com/user-attachments/assets/e8572cba-6d6b-4209-b1cb-17ebf33b3df8)
 
+# Undo Button is on rescue if an accident happens.
+
+![image](https://github.com/user-attachments/assets/89bcf0fb-afb1-4487-9d06-b6929b7b3298)
+
+
 # Dark Theme
 
 ![image](https://github.com/user-attachments/assets/39ee45fe-8bb6-4bff-ab20-cfaeddd4badc)
